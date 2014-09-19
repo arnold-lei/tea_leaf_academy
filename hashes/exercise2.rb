@@ -8,3 +8,4 @@ p hash.merge(hash2)
 
 hash.merge!(hash2)
 p hash
+
